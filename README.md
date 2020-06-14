@@ -1,6 +1,6 @@
 # Bulma Landing Page
 
-## Simple landing page project to learn [Bulma](https://www.bulma.io) and SASS.
+## Simple landing page project to learn [Bulma](https://www.bulma.io) and [SASS](sass-lang.com/).
 
 ## how to install and reqs
 
