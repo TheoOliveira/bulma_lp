@@ -39,10 +39,6 @@ $input-shadow: none;
   }
 }
 
-.navbar-tabs,.navbar-brand{
-  align-items: center;
-  text-align: center  ;
-}
 
 .title {
   letter-spacing: 10px;
@@ -55,6 +51,14 @@ h2.subtitle {
 
 .button {
   width: 300px;
+}
+
+.navbar a {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.box  {
+  padding-bottom: 1rem;
 }
 
 // Import only what you need from Bulma
