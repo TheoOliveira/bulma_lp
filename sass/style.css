@@ -12,13 +12,14 @@
   }
 }
 .title {
-  letter-spacing: 10px;
+  letter-spacing: 0.7em;
   font-family: "Archivo Black", sans-serif;
 }
 
 h2.subtitle {
   font-family: "Roboto", sans-serif;
   line-height: 80px;
+  letter-spacing: 0.7em;
 }
 
 .button {
