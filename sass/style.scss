@@ -27,7 +27,6 @@ $input-shadow: none;
 
 //hero background
 
-
 .has-background {
   background-image: url("../windows-2EwyKv4-03k-unsplash.jpg");
   width: 100%;
@@ -40,18 +39,23 @@ $input-shadow: none;
   }
 }
 
+.navbar-tabs,.navbar-brand{
+  align-items: center;
+  text-align: center  ;
+}
+
 .title {
   letter-spacing: 10px;
   font-family: $family-primary;
 }
-.subtitle {
+h2.subtitle {
   font-family: $family-secondary;
+  line-height: 80px;
 }
 
 .button {
-    width: 300px;
+  width: 300px;
 }
-
 
 // Import only what you need from Bulma
 @import "../node_modules/bulma/sass/utilities/_all.sass";

@@ -11,13 +11,19 @@
     background: url("../windows-2EwyKv4-03k-unsplash.jpg") center/cover;
   }
 }
+.navbar-tabs, .navbar-brand {
+  align-items: center;
+  text-align: center;
+}
+
 .title {
   letter-spacing: 10px;
   font-family: "Archivo Black", sans-serif;
 }
 
-.subtitle {
+h2.subtitle {
   font-family: "Roboto", sans-serif;
+  line-height: 80px;
 }
 
 .button {
@@ -5060,3 +5066,5 @@ body.has-spaced-navbar-fixed-bottom {
     padding: 18rem 1.5rem;
   }
 }
+
+/*# sourceMappingURL=style.css.map */
